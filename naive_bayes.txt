@@ -1,0 +1,10 @@
+##### Naive Bayes Implementation Output #####
+
+Train accuracy: 95.96273291925466 %
+Test accuracy: 83.16831683168317 %
+
+
+##### Naive Bayes SKLearn Output #####
+
+Train accuracy: 95.96273291925466 %
+Test accuracy: 83.16831683168317 %
