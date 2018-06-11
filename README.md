@@ -1,4 +1,4 @@
-# Fortune-Cookie-Classifier-using-Naive-Bayes
+# Fortune Cookie Classifier using Naive Bayes
 
 This mini project is a Naive Bayes classifier built in python classifies fortune cookie messages as a future prediction or a waise saying. The dataset used for this project is present in the data folder of this repository. The data folder contains 5 text files which contains following:
   1. **stoplist.txt** : Contains a list of stop words.
